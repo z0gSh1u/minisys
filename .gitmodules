@@ -1,0 +1,15 @@
+[submodule "minisys-1a-cpu"]
+	path = minisys-1a-cpu
+	url = git@github.com:seu-cs-class2/minisys-1a-cpu.git
+[submodule "minisys-minicc-ts"]
+	path = minisys-minicc-ts
+	url = git@github.com:seu-cs-class2/minisys-minicc-ts.git
+[submodule "minisys-asm"]
+	path = minisys-asm
+	url = git@github.com:seu-cs-class2/minisys-asm.git
+[submodule "minisys-app"]
+	path = minisys-app
+	url = git@github.com:seu-cs-class2/minisys-app.git
+[submodule "seu-lex-yacc"]
+	path = seu-lex-yacc
+	url = git@github.com:z0gSh1u/seu-lex-yacc.git
